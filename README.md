@@ -6,6 +6,8 @@ This Power BI KPI Dashboard tracks, visualizes, and benchmarks national hospital
 activity across England/HSE healthcare systems using monthly provisional open data 
 from January 2024 through July 2026. 
 
+The Data Source: https://digital.nhs.uk/data-and-information/publications/statistical/provisional-monthly-hospital-episode-statistics-for-admitted-patient-care-outpatient-and-accident-and-emergency-data/april-2025---january-2026
+
 The dashboard decouples acute inpatient care (admissions, consultant episodes, 
 day-case conversions, emergency ratios) and outpatient clinical utilization 
 (appointments, attendances, DNAs, first-to-follow-up patterns). It provides 
